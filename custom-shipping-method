@@ -24,7 +24,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 				 */
 				public function __construct() {
 					$this->id                 = 'flat_rate_reg'; // Id for your shipping method. Should be uunique.
-					$this->method_title       = __( 'LVKC Custom Rate' );  // Title shown in admin
+					$this->method_title       = __( 'Our Shipping Price' );  // Title shown in admin
 					$this->method_description = __( '9.95 per 2 small, medium, large, x-large and 9.95 per jumbo' ); // Description shown in admin
  
 					$this->enabled            = "yes"; // This can be added as an setting but for this example its forced enabled
