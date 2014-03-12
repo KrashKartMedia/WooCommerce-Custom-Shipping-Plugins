@@ -9,7 +9,7 @@ The wants to charge 9.95 per box shipped.
 
 The clients can fit any 2 items of Small, Mediium, Large, Extra Large into one box. So for every 2 items (as long as then are not Jumbo Size) the shipping price will add 9.95. So 1-2 items of (S,M,L,XL) will cost 9.95 for shipping. 3-4 items will cost 19.90. And so on. 
 
-Every Jumbo size item will Add 9.95 every time one is added. SO you can get the idea by this example:
+Every Jumbo size item will Add 9.95 every time one is added. So you can get the idea by this example:
 
 One small, one medium and 2 jumbo sized items cost $29.85 in shipping alone. 9.95 * 3 = 29.85
 
