@@ -13,6 +13,8 @@ Every Jumbo size item will Add 9.95 every time one is added. SO you can get the 
 
 One small, one medium and 2 jumbo sized items cost $29.85 in shipping alone. 9.95 * 3 = 29.85
 
+This plugin is based off of the Shipping Method API provided by WooThemes Docs. (http://docs.woothemes.com/document/shipping-method-api/)
+
 Installation
 ===================================
 
