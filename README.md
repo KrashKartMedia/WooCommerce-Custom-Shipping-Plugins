@@ -1,4 +1,4 @@
-WooCommerce-Custom-Shipping-Plugins
+WooCommerce-Custom-Shipping-Plugin
 ===================================
 
 This plugin adds a custom shipping method to WooCommerce > Settings > Shipping Called Our Shipping Price
