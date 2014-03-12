@@ -24,7 +24,7 @@ Using FTP:
 Download Zipped file. Unzip Folder. Upload to wp-content/plugins
 
 2. Avtivate plugin.
-3. Under WooCommerce > Settings >  you'll see a shipping tab. Enable shipping. UNABLE all shipping methods by uchecking the box under each shipping method. (yoursite.com//wp-admin/admin.php?page=woocommerce_settings&tab=shipping&section=WC_Shipping_Flat_Rate)
+3. Under WooCommerce > Settings >  you'll see a shipping tab. Enable shipping. Disable all shipping methods by uchecking the box under each shipping method. (yoursite.com//wp-admin/admin.php?page=woocommerce_settings&tab=shipping&section=WC_Shipping_Flat_Rate)
 4. Enjoy!
 
 
