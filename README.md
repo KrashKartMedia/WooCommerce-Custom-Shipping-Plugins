@@ -17,10 +17,10 @@ This plugin is based off of the Shipping Method API provided by WooThemes Docs. 
 
 Installation
 ===================================
-1.Using WordPress Admin:
+Using WordPress Admin:
 Add new plugin by going to Plugins > Add New > Upload and select the zipped file from your download location. 
 
-1a.Using FTP:
+Using FTP:
 Download Zipped file. Unzip Folder. Upload to wp-content/plugins
 
 2. Avtivate plugin.
