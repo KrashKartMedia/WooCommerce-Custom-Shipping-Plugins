@@ -5,7 +5,7 @@ This plugin adds a custom shipping method to WooCommerce > Settings > Shipping C
 
 The client we built this for had a need for a custom shipping price and a custom way to add the totals up. 
 
-The wants to charge 9.95 per box shipped.
+The client wants to charge 9.95 per box shipped.
 
 The clients can fit any 2 items of Small, Mediium, Large, Extra Large into one box. So for every 2 items (as long as then are not Jumbo Size) the shipping price will add 9.95. So 1-2 items of (S,M,L,XL) will cost 9.95 for shipping. 3-4 items will cost 19.90. And so on. 
 
