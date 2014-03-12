@@ -1,7 +1,7 @@
 WooCommerce-Custom-Shipping-Plugins
 ===================================
 
-This plugin adds a custom shipping method to WooCommerce > Settings > Shipping Called LVKC Custom Rate
+This plugin adds a custom shipping method to WooCommerce > Settings > Shipping Called Our Shipping Price
 
 This plugin charges 9.95 for up to 2 items of small, medium, large and extra large size. Each Jumbo size charges 9.95 for each item. 
 
